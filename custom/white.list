@@ -1,0 +1,4 @@
+# 微信基础功能放行
+@@||weixin.qq.com^
+@@||wx.qq.com^
+@@||qq.com^$document
