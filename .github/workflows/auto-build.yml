@@ -1,0 +1,26 @@
+name: Auto Build Rule
+on:
+  push:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Install req
+        run: pip install requests
+      - name: Run Build
+        run: python main.py
+      - name: Commit
+        run: |
+          git config user.name "Actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "Auto update $(date +%Y-%m-%d)"
+          git push
