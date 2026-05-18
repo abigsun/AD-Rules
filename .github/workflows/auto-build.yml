@@ -4,6 +4,24 @@ on:
   schedule:
     - cron: '0 3 * * *'
 
+permissions:
+  contents: write  # 关键！允许 Actions 提交代码到仓库
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run actions/checkout@v4
+        uses: actions/checkout@v4
+      # 其他步骤...
+      - name: Commit
+        run: |
+          git config user.name "Actions"
+          git config user.email "actions@github.com"
+          git add output/
+          git commit -m "Auto update $(date +%Y-%m-%d)"
+          git push
+
 jobs:
   build:
     runs-on: ubuntu-latest
