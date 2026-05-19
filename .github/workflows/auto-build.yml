@@ -26,10 +26,5 @@ jobs:
           git config user.name "Actions"
           git config user.email "actions@github.com"
           git add output/
-    if git diff --cached --quiet; then
-      echo "No changes to commit, skipping..."
-      exit 0
-    else
-      git commit -m "Auto update $(date +%Y-%m-%d)"
-      git push
-    fi
+          git diff --cached --quiet || (git commit -m "Auto update $(date +%Y-%m-%d)" && git push)
+          
