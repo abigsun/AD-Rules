@@ -5687,6 +5687,7 @@
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adcdn.hpplay.cn
 0.0.0.0 adcdn.tencentmusic.com
+0.0.0.0 adcdn6.tencentmusic.com
 0.0.0.0 adcdnx.com
 0.0.0.0 adcell.com
 0.0.0.0 adcell.de
