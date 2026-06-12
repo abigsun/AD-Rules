@@ -24667,7 +24667,6 @@
 0.0.0.0 dls.guidrr.com
 0.0.0.0 dlsw.baidu.com
 0.0.0.0 dlsw.br.baidu.com
-0.0.0.0 dlswbr.baidu.com
 0.0.0.0 dlsybe78o0.com
 0.0.0.0 dltehknrgvnjpf.com
 0.0.0.0 dlthst9q2beh8.cloudfront.net
@@ -94254,7 +94253,6 @@
 0.0.0.0 xympumihvhkkv.online
 0.0.0.0 xynthfjiefofs.site
 0.0.0.0 xyntqqrtdrjzk.online
-0.0.0.0 xyoss.g.com.cn
 0.0.0.0 xyowqtdc.com
 0.0.0.0 xypfdzaxhaokw.online
 0.0.0.0 xypmbdsisnrqe.site

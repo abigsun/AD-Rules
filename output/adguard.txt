@@ -24814,7 +24814,6 @@
 ||dls.guidrr.com^
 ||dlsw.baidu.com^
 ||dlsw.br.baidu.com^
-||dlswbr.baidu.com^
 ||dlsybe78o0.com^
 ||dltehknrgvnjpf.com^
 ||dlthst9q2beh8.cloudfront.net^
@@ -94401,7 +94400,6 @@
 ||xympumihvhkkv.online^
 ||xynthfjiefofs.site^
 ||xyntqqrtdrjzk.online^
-||xyoss.g.com.cn^
 ||xyowqtdc.com^
 ||xypfdzaxhaokw.online^
 ||xypmbdsisnrqe.site^
