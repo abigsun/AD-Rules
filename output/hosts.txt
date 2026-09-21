@@ -78137,6 +78137,7 @@
 0.0.0.0 telemetry.svc.transifex.net
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 telemetry.transcend.io
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetry.vtex.com
 0.0.0.0 telemetry.webasto.com
@@ -82019,7 +82020,6 @@
 0.0.0.0 transactionale.com
 0.0.0.0 transactionproducer.com
 0.0.0.0 transactionscookclotted.com
-0.0.0.0 transcend.io
 0.0.0.0 transcendcdn.eventbrite.com
 0.0.0.0 transferfaciliate.com
 0.0.0.0 transformationepisode.com
