@@ -16106,6 +16106,7 @@
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn-rum.ngenix.net^
 ||cdn-server.cc^
+||cdn-settings.segment.com^
 ||cdn-sitegainer.com^
 ||cdn-vitals.com^
 ||cdn.007moms.com^
@@ -22422,7 +22423,6 @@
 ||datadog-service.mvfglobal.com^
 ||datadoghq-browser-agent.com^
 ||datadoghq.eu^
-||datadome.co^
 ||datadome.maisonsdumonde.com^
 ||datadsk.com^
 ||datafa.st^
@@ -28550,7 +28550,6 @@
 ||ens.tagblatt.ch^
 ||ensealplaners.com^
 ||enseq50a.xyz^
-||ensighten.com^
 ||ensmwonhtzpdh.space^
 ||ensosignal.com^
 ||enstatenewark.com^
@@ -33062,7 +33061,6 @@
 ||gemcandock.com^
 ||gemini.yahoo.com^
 ||geminisailingzillion.com^
-||gemius.pl^
 ||gemlithium.com^
 ||gemorganic.com^
 ||gemutiwheeped.com^
@@ -47370,7 +47368,6 @@
 ||literally-analytics.appspot.com^
 ||literallycircumscribetome.com^
 ||literallyflickercomplaints.com^
-||litix.io^
 ||litpzshqdkjvn.online^
 ||litrujsxxymfn.website^
 ||litterarenadisembroildisembroil.com^
@@ -53845,6 +53842,7 @@
 ||mobile-event.cvent.me^
 ||mobile-events.eservice.emarsys.net.iberostar.com^
 ||mobile-pubt.ele.me^
+||mobile-service.segment.com^
 ||mobile.aspensnowmass.com^
 ||mobile.banzai.it^
 ||mobile.bespontix.com^
@@ -55901,6 +55899,7 @@
 ||nextsmarty.com^
 ||nextstat.com^
 ||nexttopchef.com^
+||nexus.ensighten.com^
 ||nexus.officeapps.live.com^
 ||nexusbloom.xyz^
 ||nexusedgeio.com^
@@ -58336,7 +58335,6 @@
 ||omtrdc.jobstreet.com.sg^
 ||omtrdc.jobstreet.com^
 ||omtrdc.jobstreet.vn^
-||omtrdc.net^
 ||omtrns.sstats.q8.dk^
 ||omvzcq.vidaxl.be^
 ||omwvapmytccsc.online^
@@ -61395,7 +61393,6 @@
 ||placidityelite.com^
 ||placiditylever.com^
 ||placidperson.com^
-||pladform.ru^
 ||plain-plane.com^
 ||plaincapsize.com^
 ||plainplayground.com^
@@ -69982,7 +69979,6 @@
 ||sefsdvc.com^
 ||segapi.whop.com^
 ||segment-api.inrix.com^
-||segment.com^
 ||segment.io^
 ||segment.lalr.co^
 ||segmenthub.com^

@@ -15957,6 +15957,7 @@
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn-rum.ngenix.net
 0.0.0.0 cdn-server.cc
+0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn-sitegainer.com
 0.0.0.0 cdn-vitals.com
 0.0.0.0 cdn.007moms.com
@@ -22273,7 +22274,6 @@
 0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadoghq.eu
-0.0.0.0 datadome.co
 0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datadsk.com
 0.0.0.0 datafa.st
@@ -28401,7 +28401,6 @@
 0.0.0.0 ens.tagblatt.ch
 0.0.0.0 ensealplaners.com
 0.0.0.0 enseq50a.xyz
-0.0.0.0 ensighten.com
 0.0.0.0 ensmwonhtzpdh.space
 0.0.0.0 ensosignal.com
 0.0.0.0 enstatenewark.com
@@ -32913,7 +32912,6 @@
 0.0.0.0 gemcandock.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 geminisailingzillion.com
-0.0.0.0 gemius.pl
 0.0.0.0 gemlithium.com
 0.0.0.0 gemorganic.com
 0.0.0.0 gemutiwheeped.com
@@ -47221,7 +47219,6 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 literallycircumscribetome.com
 0.0.0.0 literallyflickercomplaints.com
-0.0.0.0 litix.io
 0.0.0.0 litpzshqdkjvn.online
 0.0.0.0 litrujsxxymfn.website
 0.0.0.0 litterarenadisembroildisembroil.com
@@ -53696,6 +53693,7 @@
 0.0.0.0 mobile-event.cvent.me
 0.0.0.0 mobile-events.eservice.emarsys.net.iberostar.com
 0.0.0.0 mobile-pubt.ele.me
+0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile.aspensnowmass.com
 0.0.0.0 mobile.banzai.it
 0.0.0.0 mobile.bespontix.com
@@ -55752,6 +55750,7 @@
 0.0.0.0 nextsmarty.com
 0.0.0.0 nextstat.com
 0.0.0.0 nexttopchef.com
+0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nexusedgeio.com
@@ -58187,7 +58186,6 @@
 0.0.0.0 omtrdc.jobstreet.com.sg
 0.0.0.0 omtrdc.jobstreet.com
 0.0.0.0 omtrdc.jobstreet.vn
-0.0.0.0 omtrdc.net
 0.0.0.0 omtrns.sstats.q8.dk
 0.0.0.0 omvzcq.vidaxl.be
 0.0.0.0 omwvapmytccsc.online
@@ -61246,7 +61244,6 @@
 0.0.0.0 placidityelite.com
 0.0.0.0 placiditylever.com
 0.0.0.0 placidperson.com
-0.0.0.0 pladform.ru
 0.0.0.0 plain-plane.com
 0.0.0.0 plaincapsize.com
 0.0.0.0 plainplayground.com
@@ -69833,7 +69830,6 @@
 0.0.0.0 sefsdvc.com
 0.0.0.0 segapi.whop.com
 0.0.0.0 segment-api.inrix.com
-0.0.0.0 segment.com
 0.0.0.0 segment.io
 0.0.0.0 segment.lalr.co
 0.0.0.0 segmenthub.com
